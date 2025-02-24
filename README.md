@@ -14,7 +14,7 @@ My little mod for M&B warband.
 7. Open module_info.py in the Module System folder with notepad and point to the export_dir to the moremercs folder:  
    export_dir = "C:/Program Files (x86)/Mount&Blade Warband/Modules/BTest_vX/" (for no-Steam version)  
    export_dir = "C:/Program Files (x86)/Steam/steamapps/common/MountBlade Warband/Modules/BTest_vX/" (for Steam version)
-      The forward slashes are used deliberately.
+   The forward slashes are used deliberately.
 9. Run the build_module.bat file to apply all the changes to the moremercs module folder
 10. Test/edit
 

@@ -1,0 +1,2 @@
+BT_v4
+	All faction units added to spawn as player bots aid in multiplayer Battle mode.

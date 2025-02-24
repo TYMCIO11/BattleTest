@@ -6,7 +6,7 @@ My little mod for M&B warband.
 1. Download [Mount and Blade Warband 2010](https://g.co/kgs/uU8ghfh) (Steam or no-Steam).
 2. Download Python 2.X e.g.: [Python 2.7 release](https://www.python.org/download/releases/2.7/).
 3. Download [Notepad++](https://notepad-plus-plus.org/downloads/) (you can use MS Notepad if you are strong enough).
-4. Download latest version Module System folder (BattleTest) from Github.
+4. Download latest version Module System folder (MS_BattleTest_vX) from Github.
 5. Go to the Modules folder in game directory which is by default:  
    "C:\Program Files (x86)\Mount&Blade Warband\Modules\" (for no-Steam version),  
    "C:\Program Files (x86)\Steam\steamapps\common\MountBlade Warband\Modules" (for Steam version).

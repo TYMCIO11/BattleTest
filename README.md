@@ -4,7 +4,7 @@ My little mod for M&B warband.
 
 ### If you want to test:
 Download the BattleTest.7z and unpack it into:
-C:/Program Files (x86)/Mount&Blade Warband/Modules/BattleTest/" (for no-Steam version)
+C:/Program Files (x86)/Mount&Blade Warband/Modules/BattleTest/ (for no-Steam version)
 C:/Program Files (x86)/Steam/steamapps/common/MountBlade Warband/Modules/BattleTest/ (for Steam version)
 
 ### If you want to make some changes

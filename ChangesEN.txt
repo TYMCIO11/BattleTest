@@ -1,2 +1,4 @@
 BT_v4
 	All faction units added to spawn as player bots aid in multiplayer Battle mode.
+BT_v5
+	Fixed issue with not being able to choose Outlaws as team 2 faction.
